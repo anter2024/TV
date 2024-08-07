@@ -43,6 +43,7 @@ CCTV3综艺HD,http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv3hd/3000/01.m3u8?
 CCTV4中文国际-美洲HD,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4meihd/57/01.m3u8?&HlsSubType=&encrypt=
 CCTV5体育HD,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/2500/01.m3u8?&HlsSubType=&encrypt=
 CCTV6电影HD,http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv6hd/3000/01.m3u8?&HlsSubType=&encrypt=
+CCTV6,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 CCTV7国防军事HD,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv7hd/57/01.m3u8?&HlsSubType=&encrypt=
 CCTV8电视剧HD,http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv8hd/3000/01.m3u8?&HlsSubType=&encrypt=
 CCTV10电视剧HD,http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv10hd/3000/01.m3u8?&HlsSubType=&encrypt=
