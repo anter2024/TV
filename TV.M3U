@@ -27,7 +27,7 @@ http://192.168.123.1:50001/rtp/226.0.2.191:9440
 http://192.168.123.1:50001/rtp/226.0.2.232:9772
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="📡组播",CHC家庭影院
 http://192.168.123.1:50001/rtp/226.0.2.240:9820
-#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="📡组播",CHC高清电影
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="📡组播",CHC影迷电影
 http://192.168.123.1:50001/rtp/226.0.2.93:8004
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="📡组播",CHC动作电影
 http://192.168.123.1:50001/rtp/226.0.2.94:8012
