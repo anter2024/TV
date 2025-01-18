@@ -5,7 +5,7 @@ http://192.168.123.1:50001/rtp/226.0.2.240:9820
 http://192.168.123.1:50001/rtp/226.0.2.93:8004
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.cn/tv/CHC动作电影.png" group-title="📡组播",CHC动作电影
 http://192.168.123.1:50001/rtp/226.0.2.94:8012
-#EXTINF:-1 tvg-name="梨园" tvg-logo="https://live.fanmingming.cn/tv/梨园频道.png" group-title="📡组播",梨园频道
+#EXTINF:-1 tvg-name="梨园频道" tvg-logo="https://live.fanmingming.cn/tv/梨园频道.png" group-title="📡组播",梨园频道
 http://192.168.123.1:50001/rtp/226.0.2.115:8832
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.cn/tv/金鹰纪实.png" group-title="📡组播",金鹰纪实
 http://192.168.123.1:50001/rtp/226.0.2.194:9464
