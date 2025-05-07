@@ -105,9 +105,9 @@ http://192.168.123.1:50001/rtp/226.0.2.174:9304
 http://192.168.123.1:50001/rtp/226.0.2.175:9312
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="组播",江苏卫视
 http://192.168.123.1:50001/rtp/226.0.2.176:9320
-#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://live.fanmingming.cn/tv/北京卫视4K.png" group-title="组播",北京卫视4K
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="组播",北京卫视
 http://192.168.123.1:50001/rtp/226.0.2.142:9168
-#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://live.fanmingming.cn/tv/北京卫视4K.png" group-title="组播",北京卫视4K
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="组播",北京卫视
 http://192.168.123.1:50001/rtp/226.0.2.155:9172
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="组播",北京卫视
 http://192.168.123.1:50001/rtp/226.0.2.177:9328
