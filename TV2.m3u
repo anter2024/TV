@@ -183,8 +183,6 @@ http://192.168.123.1:50001/rtp/226.0.1.81:2003
 http://192.168.123.1:50001/rtp/226.0.1.83:2005
 #EXTINF:-1 tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png",山西影视
 http://192.168.123.1:50001/rtp/226.0.1.82:2004
-#EXTINF:-1 tvg-name="山西影视" tvg-logo="https://live.fanmingming.com/tv/山西影视.png",山西影视
-http://192.168.123.1:50001/rtp/226.0.1.88:2004
 #EXTINF:-1 tvg-name="黄河卫视" tvg-logo="https://live.fanmingming.com/tv/黄河卫视.png",黄河卫视
 http://192.168.123.1:50001/rtp/226.0.1.84:2002
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png",电视指南
@@ -192,7 +190,7 @@ http://192.168.123.1:50001/rtp/226.0.1.161:2105
 #EXTINF:-1 tvg-name="太原1" tvg-logo="https://live.fanmingming.com/tv/太原1.png",太原1
 http://192.168.123.1:50001/rtp/226.0.1.225:2001
 #EXTINF:-1 tvg-name="太原2" tvg-logo="https://live.fanmingming.com/tv/太原2.png",太原2
-http://192.168.123.1:50001/rtp/226.0.1.http://192.168.123.1:50001/rtp/226:2002
+http://192.168.123.1:50001/rtp/226.0.1.226:2002
 #EXTINF:-1 tvg-name="太原3" tvg-logo="https://live.fanmingming.com/tv/太原3.png",太原3
 http://192.168.123.1:50001/rtp/226.0.1.227:2003
 #EXTINF:-1 tvg-name="太原4" tvg-logo="https://live.fanmingming.com/tv/太原4.png",太原4
@@ -243,6 +241,8 @@ http://192.168.123.1:50001/rtp/226.0.1.206:2062
 http://192.168.123.1:50001/rtp/226.0.1.218:2058
 #EXTINF:-1 tvg-name="运城盐湖频道" tvg-logo="https://live.fanmingming.com/tv/运城盐湖频道.png",运城盐湖频道
 http://192.168.123.1:50001/rtp/226.0.1.232:2073
+#EXTINF:-1 tvg-name="稷山电视台" tvg-logo="https://live.fanmingming.com/tv/稷山电视台.png",稷山电视台
+http://192.168.123.1:50001/rtp/226.0.2.237:9808
 #EXTINF:-1 tvg-name="晋能控股" tvg-logo="https://live.fanmingming.com/tv/晋能控股.png",晋能控股
 http://192.168.123.1:50001/rtp/226.0.1.213:2171
 #EXTINF:-1 tvg-name="山西焦煤电视台" tvg-logo="https://live.fanmingming.com/tv/山西焦煤电视台.png",山西焦煤电视台
