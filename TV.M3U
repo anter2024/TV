@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://tv.mxdyeah.top/epgphp/t.xml"
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.cn/tv/CHC家庭影院.png" group-title="组播",CHC家庭影院
 http://192.168.123.1:50001/rtp/226.0.2.240:9820
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.cn/tv/CHC影迷电影.png" group-title="组播",CHC影迷电影
