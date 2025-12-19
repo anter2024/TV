@@ -200,7 +200,7 @@ http://192.168.123.1:50001/rtp/226.0.2.107:9108
 #EXTINF:-1 tvg-name="盐湖" tvg-logo="https://live.fanmingming.cn/tv/盐湖.png" group-title="组播",盐湖
 http://192.168.123.1:50001/rtp/226.0.2.106:9006
 #EXTINF:-1 tvg-name="稷山电视台" tvg-logo="https://live.fanmingming.com/tv/稷山电视台.png",稷山电视台
-http://192.168.123.1:50001/rtp/226.0.2.237:9808
+http://192.168.123.1:50001/rtp/226.0.2.171:9188
 #EXTINF:-1 tvg-name="山西焦煤" tvg-logo="https://live.fanmingming.cn/tv/山西焦煤.png" group-title="组播",山西焦煤
 http://192.168.123.1:50001/rtp/226.0.2.157:9892
 #EXTINF:-1 tvg-name="九屏测试" tvg-logo="https://live.fanmingming.cn/tv/九屏测试.png" group-title="组播",九屏测试
